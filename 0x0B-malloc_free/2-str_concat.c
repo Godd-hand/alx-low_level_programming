@@ -1,4 +1,7 @@
-#include "main.h"
+w_level_programming/0x0B-malloc_free/
+root@aa4c603a13c2:~/alx-low_level_programming/0x0B-malloc_free# ls
+0-create_array.c  1-strdup.c  2-str_concat.c  main_0.c  main.h  README.md
+root@aa4c603a13c2:~/alx-low_level_prog#include "main.h"
 #include <stdlib.h>
 
 /**
